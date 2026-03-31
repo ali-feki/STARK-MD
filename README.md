@@ -89,7 +89,7 @@
 
 **Hi friends!** Need help? Contact me via WhatsApp 👇  
 
-<a href='https://wa.me/+923199471258?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank">
+<a href='https://wa.me/+923437393822?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank">
 <img alt='WhatsApp' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 
