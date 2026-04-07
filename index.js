@@ -4,7 +4,7 @@ const axios = require("axios");
 const AdmZip = require("adm-zip");
 
 // === CONFIG ===
-const GITHUB_OWNER = "feki-ali";
+const GITHUB_OWNER = "ali-feki";
 const GITHUB_REPO = "stark-pro";
 const GITHUB_BRANCH = "main";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // Heroku config var
