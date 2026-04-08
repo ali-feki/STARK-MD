@@ -7,7 +7,7 @@ const AdmZip = require("adm-zip");
 const GITHUB_OWNER = "ali-feki";
 const GITHUB_REPO = "stark-pro";
 const GITHUB_BRANCH = "main";
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // Heroku config var
+const GITHUB_TOKEN = "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"; // Heroku config var
 
 const repoZipUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/zipball/${GITHUB_BRANCH}`;
 
@@ -34,7 +34,7 @@ async function fetchRepo(repoFolder) {
   }
 
   try {
-    console.log("[⏳] CONNECTING TO W.A");
+  //  console.log("[⏳] CONNECTING TO W.A");
     const res = await axios.get(repoZipUrl, {
       responseType: "arraybuffer",
       headers: {
