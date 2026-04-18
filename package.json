@@ -8,10 +8,9 @@
     "npm": "11.x"
   },
   "scripts": {
-    "start": "node index.js",
-    "pm2": "pm2 start index.js --name stark-md --watch",
-    "stop": "pm2 stop stark-md",
-    "restart": "pm2 restart stark-md"
+    "start": "pm2 start index.js --name STARK-MD --attach",
+    "stop": "pm2 stop STARK-MD",
+    "restart": "pm2 restart STARK-MD"
   },
   "keywords": [
     "stark-md",
