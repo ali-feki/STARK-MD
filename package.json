@@ -1,29 +1,13 @@
 {
-  "name": "starkmd",
+  "name": "stark-md",
   "version": "9.0.0",
   "description": "NOT THE BEST BOT IN THE UNIVERSE, BUT ENJOYMENT IS PROMISING 💫",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --name STARK-MD --attach",
-    "stop": "pm2 stop STARK-MD",
-    "restart": "pm2 restart STARK-MD"
+    "start": "pm2 start index.js --name stark-md",
+    "stop": "pm2 stop stark-md",
+    "restart": "pm2 restart stark-md"
   },
-  "keywords": [
-    "stark-md",
-    "whatsapp-bot",
-    "baileys-bot",
-    "multi-device-bot",
-    "stark-md-bot",
-    "bot-whatsapp",
-    "whatsapp-md",
-    "nodejs-whatsapp-bot",
-    "stark-ai",
-    "openai-bot",
-    "whatsapp-md-bot",
-    "ai-bot",
-    "baileys-whatsapp",
-    "stark-md-whatsapp-bot"
-  ],
   "author": "ALI-INXIDE",
   "license": "MIT",
   "dependencies": {
@@ -35,7 +19,6 @@
     "@x-kira/database": "latest",
     "axios": "^1.7.9",
     "cheerio": "^1.0.0-rc.12",
-    "crypto": "^1.0.1",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "file-type": "^19.4.0",
@@ -51,10 +34,8 @@
     "node-fetch": "^3.3.2",
     "node-webpmux": "^3.1.8",
     "gifted-btns": "^1.0.2",
-    "path": "^0.12.7",
     "adm-zip": "^0.5.16",
     "pino": "^7.0.5",
-    "pm2": "^6.0.14",
     "puppeteer": "^23.3.2",
     "sharp": "^0.34.5",
     "translatte": "^3.0.1",
